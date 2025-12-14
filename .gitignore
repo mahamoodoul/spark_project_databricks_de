@@ -1,0 +1,7 @@
+# macOS Finder metadata
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+# Keep large raw archive out of the repo
+0_data/ecomm-raw-data.zip
