@@ -3,6 +3,8 @@
 ## Overview
 This project implements a data lakehouse architecture for processing e-commerce data using Apache Spark and the medallion architecture (Bronze, Silver, Gold layers). It handles both historical full loads and incremental data updates for various e-commerce entities including customers, products, orders, shipments, and returns.
 
+![Project Architecture](resources/project_architecture.png)
+
 ## Project Structure
 
 ### 0_data/
