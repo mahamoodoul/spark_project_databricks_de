@@ -76,4 +76,8 @@ Execute the notebooks in the following order:
 2. Dimension processing (2_medallion_processing_dim/)
 3. Fact processing (3_medallion_processing_fact/)
 
+Final Dashboard
+
+![Dashboard](resources/ecommerce_analytics_report.jpg)
+
 Monitor job runs and data quality through Databricks job scheduler.
